@@ -1,2 +1,2 @@
-# Educational implementation of a Vision transformer
+# Vision transformer (ViT) from scratch
 
