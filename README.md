@@ -1,5 +1,10 @@
 # Vision transformer (ViT) from scratch
 
+Following the architecture as presented in the
+[paper](https://arxiv.org/pdf/2010.11929):
+
+![image](./vit-architecture.png)
+
 # `vit` - module
 
 Follows the structure of HuggingFace's `timm`-library.
